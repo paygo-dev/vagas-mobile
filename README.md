@@ -14,7 +14,7 @@
 
 ## O que esperamos de um **Mobile Tech Lead**
 
-Você fará parte do time de Tecnologia, dentro de uma **squad multidisciplinar**, ajudando, apoiando e sugerindo novas tecnlogias que resolucione de fato o problema do nosso cliente.
+Você fará parte do time de Tecnologia, dentro de uma **squad multidisciplinar**, ajudando, apoiando e sugerindo novas tecnologias que resolucione de fato o problema do nosso cliente.
 
 Como **tech lead**, você fará parte do time que garantirá a estrutura, eficácia e sucesso da equipe mobile da PayGo.
 
@@ -24,7 +24,7 @@ Algumas das principais atividades dessa oportunidade são:
 - Desenvolvimento de novas funcionalidades;
 - Manutenção e evolução dos apps e sistemas existentes;
 - Garantir a qualidade de desenvolvimento;
-- Automação de testes (Unitário, funcional, aceitação);
+- Automação de testes (unitário, funcional, aceitação);
 - Gerenciar a Play Store, fornecendo métricas da saúde do aplicativo.
 
 ## Onde estamos?
